@@ -7,7 +7,6 @@ on:
 
 jobs:
   backend-validation:
-    name: Backend Validation
     runs-on: ubuntu-latest
 
     steps:
