@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ThisIsMineApplication {
 
     public static void main(String[] args) {
-        JJKKLL
         SpringApplication.run(ThisIsMineApplication.class, args);
     }
 
